@@ -1,6 +1,6 @@
 CREATE TABLE [catalogo].[Cliente]
 (
-[codcli] [char] (3) COLLATE Modern_Spanish_CI_AS NOT NULL,
+[codcli] [char] (7) COLLATE Modern_Spanish_CI_AS NULL,
 [codciu] [char] (3) COLLATE Modern_Spanish_CI_AS NOT NULL,
 [garante] [char] (3) COLLATE Modern_Spanish_CI_AS NOT NULL,
 [direnvio] [varchar] (80) COLLATE Modern_Spanish_CI_AS NULL,
